@@ -3,7 +3,7 @@
 // @name         RaidRedirector
 // @namespace    DarkTechnician@RaidRedirector
 // @version      0.1
-// @description  try to take over the world!
+// @description  Remove '?referrer=raid' from visited links
 // @author       VaccyC, adapted to TamperMonkey/GreaseMonkey by Dark_Technician
 // @updateURL    https://github.com/DarkTechnician/RaidRedirector/RaidRedirector.user.js
 // @match        https://www.twitch.tv/*
